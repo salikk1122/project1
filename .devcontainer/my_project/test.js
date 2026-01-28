@@ -1,1 +1,2 @@
-console.log("salik")
+console.log("salik gattoo")
+console.log("Salik")
